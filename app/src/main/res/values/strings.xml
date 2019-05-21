@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">hars</string>
+
+
+    <string-array name="unit_name">
+        <item>Unit1</item>
+        <item>Unit2</item>
+        <item>Unit3</item>
+        <item>Unit4</item>
+    </string-array>
+</resources>
